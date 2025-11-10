@@ -54,7 +54,6 @@ Bienvenue sur mon portfolio.
 - 🔗 [Facebook](https://www.facebook.com/profile.php?id=615756881627245)  
 - 💼 [Portfolio GitHub](https://github.com/Ibrahim-bete)  
 
----
 
-✨ *Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets et à me contacter pour collaborer.*  
+ 
 
